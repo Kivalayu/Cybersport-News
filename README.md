@@ -1,9 +1,16 @@
 ## Description
 Welcome to our telegram bot! This bot provides various functions and features to enhance your Telegram experience. The following commands will be available to you:
 
+
+## Commands
+1. **/start** - getting started with the bot
+2. **/csgonews** - CS news:GO
+3. **/datanews** - DOTA 2 news
+
 ## Usage
-1. Add our bot to your telegram contact list: [@your_bot_username.](https://t.me/weatherprolite_boot
-2. To start using the bot, just write him the name of your city (For example: novokuznetsk)
+1. Add our bot to your telegram contact list: [@PudgePhotosBot] (https://t.me/PudgePhotosBot ).
+2. To start using the bot, just write the command to it: /start
+3. Then write either /csgonews or /datanews, depending on which game news you want to find out.
 
 ## Dependencies
 This telegram bot was developed using the following technologies and libraries:
@@ -17,7 +24,6 @@ If you have any questions, problems or suggestions to improve the bot, please co
 We hope you enjoy our telegram bot!
 
 
-
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
@@ -25,9 +31,16 @@ ________________________________________________________________________________
 ## Описание
 Добро пожаловать в нашего телеграмм бота! Этот бот предоставляет различные функции и возможности для повышения вашего опыта использования Телеграмма. Вам будут доступны следующие команды:
 
+
+## Команды
+1. **/start** - начало работы с ботом
+2. **/csgonews** - новости по CS:GO
+3. **/dotanews** - новости по DOTA 2
+
 ## Использование
-1. Добавьте нашего бота в ваш список контактов в телеграмме: [@your_bot_username.](https://t.me/weatherprolite_bot).
-2. Чтобы начать использование бота, просто напишите ему название вашего города (Например: novokuznetsk)
+1. Добавьте нашего бота в ваш список контактов в телеграмме: [@PudgePhotosBot] (https://t.me/PudgePhotosBot).
+2. Чтобы начать использование бота, просто напишите ему команду: /start
+3. Затем напишите либо /csgonews или же /dotanews, в зависимости от того, новости по какой игре вы хотите узнать.
 
 ## Зависимости
 Данный телеграмм бот был разработан с использованием следующих технологий и библиотек:
